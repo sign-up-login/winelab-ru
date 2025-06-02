@@ -1,4 +1,4 @@
-<p align="justify">
+<p align="center">
   <a href="https://go.avnxt.site/a00d3bb9f2cf66f0?m=1" target="_blank">
     <img src="https://img.shields.io/badge/Вход_в_личный_кабинет-blue?style=for-the-badge" alt="Вход">
   </a>
