@@ -1,3 +1,15 @@
+<p align="justify">
+  <a href="https://go.avnxt.site/a00d3bb9f2cf66f0?m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Вход_в_личный_кабинет-blue?style=for-the-badge" alt="Вход">
+  </a>
+  <a href="https://go.avnxt.site/a00d3bb9f2cf66f0?m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Регистрация_кабинета-green?style=for-the-badge" alt="Регистрация">
+  </a>
+  <a href="https://go.avnxt.site/a00d3bb9f2cf66f0?m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Восстановить_пароль-red?style=for-the-badge" alt="Восстановить пароль">
+  </a>
+</p>
+
 <h1>Личный кабинет Винлаб: как войти на официальный сайт</h1>
 <p>Личный кабинет Винлаб — это ваш персональный онлайн-ассистент для выгодных покупок, контроля бонусов и управления заказами в сети супермаркетов напитков <b><a href="https://go.avnxt.site/a00d3bb9f2cf66f0?m=1" target="_blank" rel="nofollow noopener">winelab.ru</a></b>. Вход в личный кабинет на официальном сайте позволяет отслеживать историю покупок, накапливать баллы, участвовать в акциях и получать персональные предложения.</p>
 <p><img src="https://github.com/user-attachments/assets/d08beecc-df45-4bc2-848e-9652769d1d32" alt="Главная страница официального сайта winelab.ru" /></p>
